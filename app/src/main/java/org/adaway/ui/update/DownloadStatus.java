@@ -1,9 +1,6 @@
 package org.adaway.ui.update;
 
 import android.content.Context;
-import android.text.format.Formatter;
-
-import org.adaway.R;
 
 /**
  * This class represents the application update download status.
